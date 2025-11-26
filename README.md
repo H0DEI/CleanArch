@@ -12,12 +12,6 @@ This repository is designed as a **portfolio-grade backend project** showing bes
 
 ---
 
-# 🏛 Clean Architecture Diagram
-
-<img src="diagram-cleanarch.png" width="650"/>
-
----
-
 # 📂 Project Structure
 
 ```
